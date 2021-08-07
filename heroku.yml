@@ -1,5 +1,5 @@
 build:
   docker:
-    Andencento: Dockerfile
+    andencento: Dockerfile
 run:
-  Andencento: python3 -m userbot
+  andencento: python3 -m userbot
