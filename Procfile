@@ -1,1 +1,1 @@
-Andencento: python3 -m userbot
+Andencento: bash AmanPandeyXNoobStrangerXForbiddenLinkerXGodboyX.sh
