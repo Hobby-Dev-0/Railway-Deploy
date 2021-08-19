@@ -1,3 +1,5 @@
 build:
   docker:
-    andencento: Dockerfile
+    pip: Dockerfile
+run:
+  pip: ./AmanPandeyXNoobStrangerXForbiddenLinkerXGodboyX.sh
