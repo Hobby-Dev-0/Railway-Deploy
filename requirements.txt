@@ -2,8 +2,6 @@ pyrogram
 
 filesplit
 
-pathlib
-
 wget>=3.2
 
 faker>=6.6.2
